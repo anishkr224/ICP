@@ -1,1 +1,1 @@
-![View Count](https://img.shields.io/badge/views-{{view_count}}-brightgreen)
+![View Count](https://img.shields.io/badge/views-123-blue)
