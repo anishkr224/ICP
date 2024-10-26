@@ -1,1 +1,18 @@
-Fundamentals of object oriented programming, java evolution, overview of java programming language, constants, variables and data types, operators and expressions, decision making and looping, classes, objects and methods, arrays, strings, and vectors, interfaces, inheritance, packages, multithreaded programming, managing errors and exceptions, applet and graphics, managing input output files in java
+- Fundamentals of object oriented programming
+- Java evolution
+- Overview of java programming language
+- Constants
+- Variables and data types
+- Operators and expressions
+- Decision making and looping
+- Classes
+- Objects and methods
+- Arrays
+- Strings and vectors
+- Interfaces
+- Inheritance
+- Packages
+- Multithreaded programming
+- Managing errors and exceptions
+- Applet and graphics
+- Managing input output files in java
