@@ -1,1 +1,1 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=apaulgithub&label=Profile%20views&color=0e75b6&style=flat" alt="apaulgithub" /> </p>
+![View Count](https://img.shields.io/badge/views-{{view_count}}-brightgreen)
