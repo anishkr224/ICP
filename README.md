@@ -1,1 +1,1 @@
-![View Count](https://img.shields.io/badge/views-123-blue)
+Fundamentals of object oriented programming, java evolution, overview of java programming language, constants, variables and data types, operators and expressions, decision making and looping, classes, objects and methods, arrays, strings, and vectors, interfaces, inheritance, packages, multithreaded programming, managing errors and exceptions, applet and graphics, managing input output files in java
